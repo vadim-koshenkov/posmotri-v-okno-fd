@@ -290,7 +290,3 @@ ol {
 .content__list-item:active {
   background-color: #545050;
 }
-
-.result__video-container {
-  position: relative;
-}
