@@ -292,10 +292,6 @@ ol {
   outline: none;
 }
 
-.content__list:focus {
-  outline: none;
-}
-
 .content__card-link:focus {
   outline: none;
 }
